@@ -5,7 +5,9 @@
 ### make sure you have python in your device 
 ### you must have beautifulsoup4
 ```python
-pip install beautifulsoup4```
+pip install beautifulsoup4
+```
 ### you must have requests
 ```python
-pip install requests```
+pip install requests
+```
